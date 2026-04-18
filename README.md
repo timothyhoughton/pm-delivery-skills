@@ -51,7 +51,7 @@ Seven skills and two chained commands covering the full pre-delivery scoping cyc
 ### Claude Code (CLI)
 
 ```bash
-claude plugin marketplace add <GITHUB_OWNER>/pm-delivery-skills
+claude plugin marketplace add timothyhoughton/pm-delivery-skills
 claude plugin install pm-scoping@pm-delivery-skills
 ```
 
@@ -59,7 +59,7 @@ claude plugin install pm-scoping@pm-delivery-skills
 
 1. Open **Customize → Browse plugins → Personal**
 2. **Add marketplace from GitHub**
-3. Enter `<GITHUB_OWNER>/pm-delivery-skills`
+3. Enter `timothyhoughton/pm-delivery-skills`
 4. Install the `pm-scoping` plugin
 
 ### Other AI assistants (Cursor, Gemini CLI, OpenCode, Codex, Kiro)
