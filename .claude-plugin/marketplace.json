@@ -1,0 +1,19 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "pm-delivery-skills",
+  "version": "0.1.0",
+  "description": "Open-source delivery skills for agency project managers. Practitioner-written AI workflows for scoping, planning, and running digital projects — starting with the five-prompt framework that turns a vague client brief into a full scope of work, time plan, and risk register in under an hour.",
+  "owner": {
+    "name": "Tim Houghton",
+    "email": "houghton.tim@gmail.com",
+    "url": "https://thewashup.substack.com"
+  },
+  "plugins": [
+    {
+      "name": "pm-scoping",
+      "description": "Turn a vague client brief into a structured scope of work, work breakdown, time plan, and risk register. Seven skills and two chained commands covering the full pre-delivery scoping cycle for any digital project.",
+      "source": "./pm-scoping",
+      "category": "project-management"
+    }
+  ]
+}

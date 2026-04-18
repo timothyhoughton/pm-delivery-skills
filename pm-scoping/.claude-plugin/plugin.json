@@ -1,0 +1,21 @@
+{
+  "name": "pm-scoping",
+  "version": "0.1.0",
+  "description": "Turn a vague client brief into a structured scope of work, work breakdown, time plan, and risk register. Seven skills and two chained commands covering the full pre-delivery scoping cycle for any digital project.",
+  "author": {
+    "name": "Tim Houghton",
+    "email": "houghton.tim@gmail.com",
+    "url": "https://thewashup.substack.com"
+  },
+  "keywords": [
+    "project-management",
+    "agency",
+    "scoping",
+    "scope-of-work",
+    "work-breakdown-structure",
+    "risk-register",
+    "client-delivery"
+  ],
+  "homepage": "https://thewashup.substack.com",
+  "license": "MIT"
+}
