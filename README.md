@@ -1,6 +1,6 @@
 # pm-delivery-skills
 
-**Open-source delivery skills for project managers.** Practitioner-written AI workflows for scoping, planning, and running digital projects — starting with the five-prompt framework that turns a vague client brief into a full scope of work, time plan, and risk register in under an hour.
+**Open-source delivery skills for digital project managers.** Practitioner-written AI workflows for scoping, planning, and running digital projects — starting with the five-prompt framework that turns a vague client brief into a full scope of work, time plan, and risk register in under an hour.
 
 Works with Claude Code, Claude Cowork, and any AI assistant that supports the universal `SKILL.md` format.
 
