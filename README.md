@@ -104,9 +104,9 @@ Suggestions welcome — open an issue.
 
 ## About
 
-Built by [Tim Houghton](https://thewashup.substack.com) — twenty years of digital delivery at agencies, currently Director of Product & Services at a global healthcare marketing agency.
+Built by [Tim Houghton](https://thewashup.club) — twenty years of digital delivery at agencies, currently Director of Product & Services at a global healthcare marketing agency.
 
-The patterns in these skills come from real projects. If they're useful to you, **[subscribe to The Wash-Up](https://thewashup.substack.com)** — weekly writing on AI for agency project managers, account managers, and delivery leads.
+The patterns in these skills come from real projects. If they're useful to you, **[subscribe to The Wash-Up](https://thewashup.club)** — weekly writing on AI for agency project managers, account managers, and delivery leads.
 
 ---
 
