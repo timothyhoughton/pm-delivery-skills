@@ -124,6 +124,7 @@ Anything in the brief that feels risky, underspecified, or commercially concerni
 Flag at the end of the output:
 - Any part of the brief you found ambiguous and had to interpret.
 - Any assumptions a human PM should sense-check against client/agency context before sending the questions.
+- If the full question list exceeds 15 questions, note this explicitly and recommend which questions are best answered by email in advance and which are better held for a call — so the client is not overwhelmed before the relationship has started.
 ```
 
 ### Output you should expect
