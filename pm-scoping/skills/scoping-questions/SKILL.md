@@ -76,6 +76,7 @@ Phase 3 — Question generation
 - Convert each risk into a precise, brief-specific question.
 - Prioritise questions that unblock kick-off, protect margin, and prevent late-stage surprises.
 - Avoid generic questions that could apply to any brief.
+- Where a question involves producing evidence (e.g. substantiating a marketing claim, confirming asset licensing, providing regulatory compliance documentation), ask who is responsible for that task and by when — not just whether the evidence exists.
 
 # OUTPUT FORMAT
 
@@ -92,7 +93,7 @@ Group questions under the following headings. **Only include a heading if there 
 
 - **Objectives & Success Criteria**
 - **Approval Process & Decision-Making**
-- **Stakeholders & Communication**
+- **Stakeholders & Communication** *(include both sign-off approvers and operational staff whose day-to-day workflow will change — e.g. the person who currently handles incoming orders, manages a shared inbox, or administers the system being replaced)*
 - **Content, Asset & IP Ownership**
 - **Technical Setup, Access & Integrations**
 - **Compliance, Legal & Brand Safety**
@@ -107,10 +108,10 @@ For each question, use this micro-format:
 > Why it matters: [One short sentence linking it to a delivery/commercial/compliance risk specific to this brief]
 
 ## 4. Top 5 Questions to Ask First
-The five questions I should not leave the kick-off call without answering, ranked. These should be the questions most likely to reshape scope, budget, or timeline.
+The five questions I should not leave the kick-off call without answering, ranked. These should be the questions most likely to reshape scope, budget, timeline, or — for campaign briefs — channel strategy and campaign structure. Audience-definition questions qualify when the audience ambiguity directly drives channel mix or creative territory.
 
 ## 5. Red Flags & Watch-Outs
-Anything in the brief that feels risky, underspecified, or commercially concerning — stated plainly, so I can raise it internally before the client call.
+Anything in the brief that feels risky, underspecified, or commercially concerning — stated plainly, so I can raise it internally before the client call. If the success criterion is unmeasurable (e.g. "we'll know it when we see it", no baseline, no target), flag this explicitly as a contractual risk: a SoW signed without a measurable outcome cannot be defended if the client is dissatisfied at launch.
 
 # CONSTRAINTS
 - Be specific to this brief. Reference details from it directly in the "Why it matters" notes.
